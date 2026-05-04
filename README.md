@@ -100,3 +100,12 @@ pip install -r requirements.txt
 | iTransformer | Liu et al., 2024 |
 | DualFormer | Liang et al., 2022 |
 | **DualTrans-CFA (Ours)** | — |
+## Code Availability
+
+The source code associated with this manuscript is publicly available at GitHub and archived on Zenodo.
+
+GitHub repository: https://github.com/lynnehuhuhu-png/Dual-Stream-Transformer-with-CA
+
+Zenodo DOI: https://doi.org/10.5281/zenodo.20020595
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20020595.svg)](https://doi.org/10.5281/zenodo.20020595)
