@@ -1,0 +1,37 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# PyCharm
+.idea/
+
+# Environments
+venv/
+.venv/
+env/
+
+# Logs and outputs
+logs/
+runs/
+wandb/
+outputs/
+checkpoints/
+
+# Data files
+*.npy
+*.npz
+*.mp4
+*.avi
+*.mov
+*.zip
+*.rar
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# OS
+.DS_Store
+Thumbs.db
